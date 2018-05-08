@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+nav {
+    margin-bottom: 1rem;
+}
+.navbar-brand .navbar-item {
+    font-size: 2rem;
+    font-variant: small-caps;
+}
+.box {
+    text-align: center;
+    border-radius: 0;
+}
+.box .title {
+    margin: 2rem auto 5rem;
+}
+.box .brand {
+    margin: 2rem auto 1rem;
+}
